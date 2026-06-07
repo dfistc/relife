@@ -1,4 +1,4 @@
-name: Update and deploy literature watch
+name: Update private literature watch data
 
 on:
   push:
@@ -9,20 +9,15 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
-  pages: write
-  id-token: write
+  contents: read
 
 concurrency:
-  group: literature-watch-pages
+  group: literature-watch-private-data
   cancel-in-progress: false
 
 jobs:
-  update-and-deploy:
+  update-literature:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - uses: actions/checkout@v4
@@ -34,23 +29,9 @@ jobs:
       - name: Search new literature candidates
         run: python scripts/update_literature.py
 
-      - name: Build public site
-        run: python scripts/build_public.py
-
       - name: Upload candidate review queue
         uses: actions/upload-artifact@v4
         with:
           name: literature-review-queue
           path: data/review_queue.json
           overwrite: true
-
-      - uses: actions/configure-pages@v5
-        with:
-          enablement: true
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: public
-
-      - name: Deploy GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
