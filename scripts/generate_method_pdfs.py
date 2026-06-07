@@ -18,7 +18,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data" / "papers.json"
 OUTPUT = ROOT / "downloads"
 WINDOWS_FONT = Path(r"C:\Windows\Fonts\msyh.ttc")
-LINUX_FONT = Path("/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc")
+LINUX_FONT = Path("/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc")
 FONT = WINDOWS_FONT if WINDOWS_FONT.exists() else LINUX_FONT
 
 ROUTES = {
