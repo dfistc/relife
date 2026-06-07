@@ -112,7 +112,6 @@ h2 { margin: 0; font-size: 40px; letter-spacing: -.05em; }
 .paper-link { display: inline-block; margin-top: 22px; color: var(--green); font-size: 12px; font-weight: 700; text-decoration: none; }
 .paper-links { display: flex; flex-wrap: wrap; gap: 18px; }
 .paper-link.secondary { color: var(--muted); }
-.paper-link.method-download { padding: 7px 11px; border: 1px solid var(--green); border-radius: 3px; color: var(--green); background: #eef5e8; }
 .empty-state { padding: 55px 30px; text-align: center; border: 1px dashed #b9c5bd; background: rgba(255,255,255,.35); }
 .empty-state span { color: var(--green); font-size: 11px; font-weight: 700; letter-spacing: .15em; }
 .empty-state h3 { margin: 15px 0 7px; font-size: 24px; }

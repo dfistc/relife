@@ -93,7 +93,6 @@ function render() {
       <div class="paper-links">
         <a class="paper-link" href="${encodeURI(p.url)}" target="_blank" rel="noopener">原文直达 / Publisher ↗</a>
         ${p.source_url ? `<a class="paper-link secondary" href="${encodeURI(p.source_url)}" target="_blank" rel="noopener">PubMed / PMC 核验 ↗</a>` : ""}
-        <a class="paper-link method-download" href="downloads/${encodeURIComponent(String(p.id).replaceAll("/", "_"))}-methods.pdf" download>下载实验路线与方法 PDF ↓</a>
       </div>
     </article>
   `}).join("");

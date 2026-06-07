@@ -13,13 +13,10 @@ def main() -> None:
     if PUBLIC.exists():
         shutil.rmtree(PUBLIC)
     (PUBLIC / "data").mkdir(parents=True)
-    (PUBLIC / "downloads").mkdir()
 
     for name in ("index.html", "app.js", "styles.css"):
         shutil.copy2(ROOT / name, PUBLIC / name)
     shutil.copy2(ROOT / "data" / "papers.json", PUBLIC / "data" / "papers.json")
-    for pdf in (ROOT / "downloads").glob("*.pdf"):
-        shutil.copy2(pdf, PUBLIC / "downloads" / pdf.name)
     (PUBLIC / ".nojekyll").touch()
     print(f"Built public site at {PUBLIC}")
 
