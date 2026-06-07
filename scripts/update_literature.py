@@ -1,0 +1,89 @@
+"""Fetch new BMP8B/LONP1/HMGCS2 literature candidates from Europe PMC.
+
+This script never guesses impact factors or machine-translates summaries. New
+candidates are written to data/review_queue.json for the scheduled Codex task
+to verify, summarize, and merge into the public dataset.
+"""
+
+from __future__ import annotations
+
+import html
+import json
+import urllib.parse
+import urllib.request
+from datetime import datetime
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+PAPERS_PATH = ROOT / "data" / "papers.json"
+QUEUE_PATH = ROOT / "data" / "review_queue.json"
+QUERY = (
+    'FIRST_PDATE:[2024-01-01 TO 2099-12-31] AND '
+    '((TITLE_ABS:BMP8B OR TITLE_ABS:"BMP-8B") OR '
+    '(TITLE_ABS:LONP1 OR TITLE_ABS:"Lon protease 1") OR '
+    '(TITLE_ABS:HMGCS2 OR TITLE_ABS:"mitochondrial HMG-CoA synthase"))'
+)
+
+
+def fetch_candidates() -> list[dict]:
+    params = urllib.parse.urlencode(
+        {"query": QUERY, "format": "json", "pageSize": 100, "sort": "FIRST_PDATE_D desc"}
+    )
+    request = urllib.request.Request(
+        f"https://www.ebi.ac.uk/europepmc/webservices/rest/search?{params}",
+        headers={"User-Agent": "ThermoGene-Literature-Watch/1.0"},
+    )
+    with urllib.request.urlopen(request, timeout=30) as response:
+        payload = json.load(response)
+    return payload["resultList"]["result"]
+
+
+def main() -> None:
+    current = json.loads(PAPERS_PATH.read_text(encoding="utf-8"))
+    known = {
+        str(identifier)
+        for item in current["papers"]
+        for identifier in [item["id"], *item.get("aliases", [])]
+    }
+    queue = []
+    for item in fetch_candidates():
+        identifier = str(item.get("pmid") or item.get("pmcid") or item.get("id"))
+        if identifier in known:
+            continue
+        queue.append(
+            {
+                "id": identifier,
+                "title": html.unescape(item.get("title") or ""),
+                "journal": item.get("journalTitle"),
+                "date": item.get("firstPublicationDate"),
+                "authors": item.get("authorString"),
+                "doi": item.get("doi"),
+                "discovered_date": datetime.now().astimezone().date().isoformat(),
+                "needs_review": [
+                    "direct or inspirational relevance to thermogenesis/PCOS",
+                    "set relevance to direct or inspirational",
+                    "set added_date when publishing to papers.json",
+                    "verify title against PubMed/PMC and DOI before publishing",
+                    "set url to DOI/publisher page and source_url to PubMed/PMC",
+                    "article type and research field",
+                    "2024 JIF, CAS partition, and CNS classification",
+                    "bilingual summaries and inspiration note",
+                ],
+            }
+        )
+    if queue:
+        QUEUE_PATH.write_text(
+            json.dumps(
+                {"checked_at": datetime.now().astimezone().isoformat(timespec="seconds"), "candidates": queue},
+                ensure_ascii=False,
+                indent=2,
+            ),
+            encoding="utf-8",
+        )
+        print(f"Queued {len(queue)} new candidate(s) for review.")
+    else:
+        print("No new candidates; public data left unchanged.")
+
+
+if __name__ == "__main__":
+    main()

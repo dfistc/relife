@@ -1,0 +1,1848 @@
+{
+  "checked_at": "2026-06-07T18:04:31+08:00",
+  "candidates": [
+    {
+      "id": "42218299",
+      "title": "Histone methyltransferase KMT2D promotes castration-resistant prostate cancer progression by reactivating AR through FOXA1.",
+      "journal": "Oncogene",
+      "date": "2026-05-30",
+      "authors": "Luo M, Wu C, Zhou M, Liu R, Zhang Y, Li Y, Liao Y, Huang X, Du C, Lv S, Wei Q.",
+      "doi": "10.1038/s41388-026-03828-3",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "42217266",
+      "title": "Clinical and neurodevelopmental features of chromosome 1 copy number variations in children.",
+      "journal": "Brain Dev",
+      "date": "2026-05-30",
+      "authors": "Yüksel Ülker A, Usluer E, Kaplan İ.",
+      "doi": "10.1016/j.braindev.2026.104556",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "42216472",
+      "title": "A multilayered stress-response circuit: The mammalian mitochondrial UPR.",
+      "journal": "FEBS J",
+      "date": "2026-05-29",
+      "authors": "Czechowicz P, Więch-Walów A, Kozioł S, Dudzik J, Collawn JF, Bartoszewski R.",
+      "doi": "10.1111/febs.70607",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "42192095",
+      "title": "Variants in genes regulating thiamine metabolism in children in the Lao Thiamine study.",
+      "journal": "Paediatr Int Child Health",
+      "date": "2026-05-26",
+      "authors": "Nunez KC, Hess SY, Smith TJ, Kounnavong S, Thacher TD, Fischer PR.",
+      "doi": "10.1080/20469047.2026.2657620",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "PPR1237862",
+      "title": "Fully Complementary Interactions of LmiRNA with mRNA of Human Genes",
+      "journal": null,
+      "date": "2026-05-22",
+      "authors": "Ivashchenko A, Pyrkova A, Niyazova R, Orazova S.",
+      "doi": "10.20944/preprints202603.1354.v2",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "PPR1235991",
+      "title": "Human mitochondrial Lon protease initiates unidirectional degradation from either substrate terminus",
+      "journal": null,
+      "date": "2026-05-20",
+      "authors": "Schenck N, Filipcik P, Abrahams JP.",
+      "doi": "10.64898/2026.05.18.725877",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "42159833",
+      "title": "The Integrated Stress Response Protein, eIF2α, Modulates UPR<sup>mt</sup> Signaling and Cell Death in Doxorubicin Treated Human Cardiac Cells.",
+      "journal": "Cardiovasc Toxicol",
+      "date": "2026-05-20",
+      "authors": "O'Dwyer KP, Bauer PE, Pal S, Brundage K, Venkatesh S.",
+      "doi": "10.1007/s12012-026-10124-9",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "42149693",
+      "title": "Hepatic ketogenic insufficiency blunts exercise-induced energy expenditure and alters mitochondrial proteins in skeletal muscle.",
+      "journal": "Function (Oxf)",
+      "date": "2026-05-18",
+      "authors": "Davis XC, McCoin CS, Salathe SF, Franczak E, Allen JA, Queathem ED, Fulghum KL, Puchalska P, Crawford PA, Thyfault JP, Morris EM.",
+      "doi": "10.1152/function.089.2025",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "42188947",
+      "title": "Comparative Hepatic Transcriptomic Analysis Reveals Metabolic Regulatory Differences Between Qilian and Oula Sheep.",
+      "journal": "Vet Sci",
+      "date": "2026-05-15",
+      "authors": "Ren Y, An QT, Du X, Liu X, Gao F, Li Y, Xu Y, Yao L, Li W.",
+      "doi": "10.3390/vetsci13050477",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "42133604",
+      "title": "Hepatic ketogenesis is not required for exercise training to mitigate diet-induced liver steatosis in male mice.",
+      "journal": "Function (Oxf)",
+      "date": "2026-05-14",
+      "authors": "Vang CM, Ortega AF, Pfeiffer RE, Hartmann JL, Hampton GS, Wang H, Queathem ED, Crawford PA, Han X, Hughey CC.",
+      "doi": "10.1152/function.008.2026",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "42126081",
+      "title": "Divergent mitochondrial stressors elicit specific retrograde signaling pathways in muscle myotubes.",
+      "journal": "Am J Physiol Cell Physiol",
+      "date": "2026-05-13",
+      "authors": "Sztolsztener K, Mahendran T, Hood DA.",
+      "doi": "10.1152/ajpcell.00167.2026",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "42119830",
+      "title": "Acetoacetyl-CoA synthetase modulates lipid partitioning and cholesterol-related gene expression in NEFA-challenged neonatal bovine hepatocytes.",
+      "journal": "J Steroid Biochem Mol Biol",
+      "date": "2026-05-11",
+      "authors": "Tian Y, Wang S, Loor JJ, Fan W, Chang Y, Yang T, Zhang B, Xia C, Xu C, Li X, Yang W.",
+      "doi": "10.1016/j.jsbmb.2026.107037",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "42119562",
+      "title": "A ketogenesis-ferroptosis axis maintains leukemic stem cell survival and leukemia progression.",
+      "journal": "Cell Stem Cell",
+      "date": "2026-05-11",
+      "authors": "Han X, Wang K, Ma W, Zhu S, Guan J, Tian X, Zhao Z, Jiang L.",
+      "doi": "10.1016/j.stem.2026.04.013",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "42115216",
+      "title": "Ascites protects against ferroptosis and enables the peritoneal growth of ovarian cancer.",
+      "journal": "Nat Commun",
+      "date": "2026-05-11",
+      "authors": "Setayeshpour Y, Chen SY, Dayanidhi DL, Lee Y, Wu SC, Aristizabal-Henao JJ, Wu J, Lin CC, Setayeshpour N, Federico C, Mestre AA, Kiebish MA, Berchuck A, Hsu DS, Huang Z, Murphy SK, Chi JT.",
+      "doi": "10.1038/s41467-026-72116-1",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "PPR1209446",
+      "title": "LonP1 chaperone-like activity is ATPase independent and is mediated by its N-domain",
+      "journal": null,
+      "date": "2026-05-08",
+      "authors": "Roesgaard MA, Armbruster P, Sharpe T, Schenck N, Abrahams JP.",
+      "doi": "10.64898/2026.05.06.723147",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "42085738",
+      "title": "System-level multi-omics uncover proteomic, peptidomic, and metabolic remodeling in Microcystin-LR exacerbated chronic kidney disease.",
+      "journal": "Ecotoxicol Environ Saf",
+      "date": "2026-05-04",
+      "authors": "Kongsintaweesuk S, Intuyod K, Roytrakul S, Seubwai W, Sangkhamanon S, Charoenlappanit S, Cha'on U, Surapinit A, Thongpon P, Tanasuka P, Chomwong S, Blair D, Pinlaor S, Pinlaor P.",
+      "doi": "10.1016/j.ecoenv.2026.120211",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "42219609",
+      "title": "The Multiple Roles and Targeting Strategies of LonP1 in the Occurrence and Development of Cancer.",
+      "journal": "Biofactors",
+      "date": "2026-05-01",
+      "authors": "Zeng Q, Huang S, Jiang T.",
+      "doi": "10.1002/biof.70121",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "42097003",
+      "title": "Rare ginsenoside Rk1 protects against cisplatin-induced auditory damage by regulating the MST1/LONP1 pathway.",
+      "journal": "Phytomedicine",
+      "date": "2026-04-26",
+      "authors": "Bai X, Zhang ZX, Sun SS, Wu TQ, Liao B, Chen XB, Wang MQ, Chen HP, Liu YH, Xu K.",
+      "doi": "10.1016/j.phymed.2026.158248",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "42031707",
+      "title": "Tumor-derived DNA drives cancer-associated anemia by promoting reticulocyte clearance.",
+      "journal": "Signal Transduct Target Ther",
+      "date": "2026-04-24",
+      "authors": "Yuan T, Liu X, Wu Y, Li S, Chu H, Li Q, Chen Z, Liu H, Mao T, Zha H, Cheng X, Jing J, Li C, Peng L, Chen X, Liao Q, Yu R, Lv H, Zhang J, Wang Z, Jia Q, Long H, Chen D, Zhu B.",
+      "doi": "10.1038/s41392-026-02674-9",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "PPR1180544",
+      "title": "Screening Candidate Genes Related to Nutrition Metabolism in Qilian Sheep Based on Liver Transcriptome Sequencing",
+      "journal": null,
+      "date": "2026-04-20",
+      "authors": "Ren Y, An Q, Du X, Liu X, Gao F, Li Y, Xu Y, Yao L, Li W.",
+      "doi": "10.20944/preprints202604.1436.v1",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "42002091",
+      "title": "Chrysin attenuates tramadol-driven renal dysfunction via regulation of RNA networks, antioxidant pathways, and ketogenic metabolism.",
+      "journal": "Eur J Pharmacol",
+      "date": "2026-04-17",
+      "authors": "Öz MA, Kandemir Ö, Özdemir S, Şimşek H, Küçükler S, Yazıcı R, Mutlu H, Kandemir FM.",
+      "doi": "10.1016/j.ejphar.2026.178882",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41995817",
+      "title": "Empagliflozin improves metabolism and prevents myocardial and coronary dysfunction in streptozotocin-diabetic and non-diabetic rats subjected to ischemia/reperfusion.",
+      "journal": "Basic Res Cardiol",
+      "date": "2026-04-17",
+      "authors": "Rocca C, De Bartolo A, Granieri MC, Rago V, Conforti F, Urlandini L, Romeo N, Mattii L, De Caterina R, Pagliaro P, Angelone T, Penna C, Madonna R.",
+      "doi": "10.1007/s00395-026-01177-6",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41999829",
+      "title": "mtHsp70 overexpression enhances neuroprotection through ATF5-dependent UPRmt signaling after traumatic brain injury.",
+      "journal": "Exp Neurol",
+      "date": "2026-04-16",
+      "authors": "Zhang Y, Jin Y, Han R, Shen Y, Wang Z, Sun X, Liu J.",
+      "doi": "10.1016/j.expneurol.2026.115787",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41992290",
+      "title": "From collapse to comeback: Luteolin rejuvenates nucleus pulposus progenitor cells via SIRT1/ATF5-UPRmt to reverse intervertebral disc degeneration cascade.",
+      "journal": "Stem Cell Res Ther",
+      "date": "2026-04-16",
+      "authors": "Wu H, Zai S, You X, Liu C, Li Z, Li Z, Mei Y, Hua B, Tao Y, Wu Y, Zhang L.",
+      "doi": "10.1186/s13287-026-05003-7",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41960367",
+      "title": "SIRT3 Regulates HMGCS2 Deacetylation and Influences Cholangiocarcinoma Progression via the Metabolism of Ketone Bodies.",
+      "journal": "Hum Mutat",
+      "date": "2026-04-07",
+      "authors": "Liu S, You X, Wang D, Wang X, Yang Y, Chen F, Zheng J, Qi F, Sun W, Peng W, Xi J, Lu Z, Zhang D.",
+      "doi": "10.1155/humu/9005232",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "PPR1216388",
+      "title": "Celastrol alleviates SGLT2 inhibitor-induced diabetic hyperketonemia by inhibiting hepatic ketogenesis",
+      "journal": null,
+      "date": "2026-04-05",
+      "authors": "Zhu Y, Wang Y, Zhang M, Liu L, Tian Y, Guo Z, Zhang R, Zhang J, Ma Z, Fang F, Yan L, Liu X.",
+      "doi": "10.64898/2026.04.01.715734",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41970958",
+      "title": "Beyond the genome: clinical challenges in diagnosing <i>LONP1</i>-related mitochondrial disorders.",
+      "journal": "Front Cell Dev Biol",
+      "date": "2026-03-27",
+      "authors": "Jiang Q, Duan J, Liu C, Zhu Y, Zeng Q, Hu Y, Luo Z, Cao D, Liao J, Chen L.",
+      "doi": "10.3389/fcell.2026.1779332",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41903616",
+      "title": "Lonp1 inhibition disrupts mitochondrial function in the hippocampus and drives an aging-like synaptic and cognitive phenotype in adult SAMP8 mice.",
+      "journal": "Free Radic Biol Med",
+      "date": "2026-03-27",
+      "authors": "Cortés-Díaz D, Jara C, Fuentes Í, Llanquinao J, Lira M, Ricca M, Valenzuela S, Oliva CA, Tapia-Rojas C.",
+      "doi": "10.1016/j.freeradbiomed.2026.03.059",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "PPR1168092",
+      "title": "Fully Complementary Interactions of LmiRNA with mRNA of Human Genes",
+      "journal": null,
+      "date": "2026-03-18",
+      "authors": "Ivashchenko A, Pyrkova A, Niyazova R, Orazova S.",
+      "doi": "10.20944/preprints202603.1354.v1",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41900996",
+      "title": "Structural Analysis of Human LonP1 Protease Bound with the Native Substrate.",
+      "journal": "Life (Basel)",
+      "date": "2026-03-16",
+      "authors": "Li M, Liu H, Zhang S, Gao Q, Li S, Wang J, Zhang K.",
+      "doi": "10.3390/life16030478",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41952876",
+      "title": "Low-intensity pulsed ultrasound restores mitochondrial dynamics and function in lipopolysaccharide-stimulated astrocytes.",
+      "journal": "Ups J Med Sci",
+      "date": "2026-03-09",
+      "authors": "Kolac UK, Turkkol A, Kılıc MA, Yalcın GD, Yalcın A, Bılgın MD.",
+      "doi": "10.48101/ujms.v131.13678",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41794759",
+      "title": "IMMT downregulation promotes osteoarthritis development by inducing mitochondrial dysfunction.",
+      "journal": "J Orthop Surg Res",
+      "date": "2026-03-08",
+      "authors": "Yang L, Wang B, Ma Q, Wang J, Cheng Y.",
+      "doi": "10.1186/s13018-026-06775-7",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41792234",
+      "title": "HMGCS2-dependent β-OHB/H3K9bhb ameliorates synaptic plasticity and cognition in Alzheimer's disease.",
+      "journal": "Exp Mol Med",
+      "date": "2026-03-06",
+      "authors": "Yu H, Wang F, Yuan JQ, Chen J, Zhang KY, Jia D, Gong J, Mao Y, Bi S, Zhang YQ, Lan ZC, Yu HY, Chai GS.",
+      "doi": "10.1038/s12276-026-01664-9",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41794140",
+      "title": "Impact of risperidone and voluntary exercise on ketone body metabolism-related gene expression in the brain of female juvenile rats.",
+      "journal": "Behav Brain Res",
+      "date": "2026-03-05",
+      "authors": "Yi W, Lian J, Deng C.",
+      "doi": "10.1016/j.bbr.2026.116143",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41784225",
+      "title": "Nuclear AGO2 exacerbates heart failure with preserved ejection fraction through myocardial ketogenesis.",
+      "journal": "Eur Heart J",
+      "date": "2026-03-05",
+      "authors": "Jin K, Tang Y, Zhan J, Zhou Y, Xie R, Hu G, Qin Y, Wen J, Wen Z, Zhao Y, Fan J, Du H, Wang F, Tang S, Yang S, Guo YR, Jiang D, Wu J, Liu Q, Cheng X, Li H, Chen C.",
+      "doi": "10.1093/eurheartj/ehag067",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41858777",
+      "title": "Ascorbic acid enhances <i>in vitro</i> primordial germ cell-like cell differentiation from mouse ESCs.",
+      "journal": "Front Cell Dev Biol",
+      "date": "2026-03-04",
+      "authors": "Kumar U, Kumar N, Chandra Shekar P, Thangaraj K.",
+      "doi": "10.3389/fcell.2026.1755998",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41958129",
+      "title": "[Overexpression of mitochondrial Lon protease 1 alleviates myocardial injury in septic mice by attenuating mitochondrial oxidative stress].",
+      "journal": "Zhonghua Wei Zhong Bing Ji Jiu Yi Xue",
+      "date": "2026-03-01",
+      "authors": "Luo X, Zhao S, Geng Z, Fu B, Fu X.",
+      "doi": "10.3760/cma.j.cn121430-20250224-00103",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41834498",
+      "title": "PAK5-Mediated Suppression of β-Hydroxybutyrate Production Promotes Breast Cancer Metastasis and Can Be Overcome with Ketogenic Diet.",
+      "journal": "Cancer Res",
+      "date": "2026-03-01",
+      "authors": "Xing Y, Tan Y, Hu B, Zhang H, Li Y, Zuo J, Liu Y, Han F, Sun SL, Wang X, Li Y, Li F.",
+      "doi": "10.1158/0008-5472.can-25-2174",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41801188",
+      "title": "Ketone Body Supplementation Exerts Renoprotective Effects Against Adenine-Induced Kidney Injury via OXCT1-Mediated Ketolysis in Mice.",
+      "journal": "FASEB J",
+      "date": "2026-03-01",
+      "authors": "Omachi S, Sugahara S, Horiguchi J, Yasuda-Yamahara M, Kuwagata S, Yamahara K, Tanaka-Sasaki Y, Ida S, Kusaba T, Humphreys BD, Kufukihara K, Nakahara J, Chin-Kanasaki M, Kume S.",
+      "doi": "10.1096/fj.202503908r",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "PPR1222009",
+      "title": "Neuronal ketone body utilization couples exercise and time-restricted feeding to cognitive enhancement",
+      "journal": null,
+      "date": "2026-02-27",
+      "authors": "Salathe SF, Kugler BA, Franczak E, Davis XC, Boakye FB, Allen J, Fulghum KL, Queathem ED, Morris EM, Puchalska P, Crawford PA, Thyfault JP.",
+      "doi": "10.64898/2026.02.25.708044",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41730877",
+      "title": "PRMT5 in mitochondria regulates mtDNA stability through TFAM arginine methylation.",
+      "journal": "Nat Commun",
+      "date": "2026-02-23",
+      "authors": "Bhattacharjee S, Das S, Chowdhury B, Das BB.",
+      "doi": "10.1038/s41467-026-69676-7",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41719395",
+      "title": "Covalent capture and genetic code expansion enables chemoproteomic profiling and functional characterization of lysine acetoacetylation.",
+      "journal": "Sci Adv",
+      "date": "2026-02-20",
+      "authors": "Song X, Lu Y, Guo X, Zheng Y, Huang H.",
+      "doi": "10.1126/sciadv.aeb5106",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41724071",
+      "title": "Design, synthesis, and activity evaluation of novel potential PPARα agonists.",
+      "journal": "Bioorg Med Chem",
+      "date": "2026-02-19",
+      "authors": "Wang X, Wang W, Guo J, Zhang L, Liu X, Gong L, Chen J, Zuo Z.",
+      "doi": "10.1016/j.bmc.2026.118604",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "PPR1223456",
+      "title": "The mitochondrial chaperone HSPD1 folds MTHFD2 independently of its co-chaperone HSPE1",
+      "journal": null,
+      "date": "2026-02-17",
+      "authors": "Gabbay S, Ben-David H, Alassam SS, Cohen L, Levy T, Levin L, Tickotsky Moskovitz N, Abramovich I, Batushansky A, Dror S, Elkabets M, Alon N, Brotman Y, Kaluski-Kopatch S, Nikelshparg E, Sued-Hendrickson S, Bershtein S, Ben-Zvi A, Rotblat B.",
+      "doi": "10.64898/2026.02.16.706072",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41747444",
+      "title": "Identifying a fatty acid metabolic gene signature in diabetic cardiomyopathy through integrated bioinformatics and machine learning.",
+      "journal": "Biochem Biophys Res Commun",
+      "date": "2026-02-17",
+      "authors": "Wei A, Zhang H, He O, Zhang N, Wang M, Pang A, Cui Y, Xi P.",
+      "doi": "10.1016/j.bbrc.2026.153485",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41750634",
+      "title": "Fermented and Unfermented Rooibos (<i>Aspalathus linearis</i>) Exhibit Selective Protection Against Hepatic Stress in Rats Exposed to Fumonisin B1.",
+      "journal": "Antioxidants (Basel)",
+      "date": "2026-02-14",
+      "authors": "Marnewick JL, Ali O, Sheik Abdul N, Docrat TF, Chipofya E, Bristow P, Szabó A, Schieszl T, Balogh K, Bóta B, Turbók J, Varga-Szatmári V, Agyarko E, Kovács M.",
+      "doi": "10.3390/antiox15020254",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41678072",
+      "title": "The impact of lipid-rich nutrition on ketogenesis and muscle weakness in sepsis.",
+      "journal": "Intensive Care Med Exp",
+      "date": "2026-02-12",
+      "authors": "Lauwers C, Gunst J, El Dawy S, Derde S, Pauwels L, Derese I, Vander Perre S, Van den Berghe G, Casaer MP, Langouche L.",
+      "doi": "10.1186/s40635-026-00867-8",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41688031",
+      "title": "Amelioration of hepatic steatosis in male obese rats by high-protein diet is dependent upon protein source.",
+      "journal": "J Nutr Biochem",
+      "date": "2026-02-11",
+      "authors": "Ramadan FHJ, Zahradka P, Taylor CG.",
+      "doi": "10.1016/j.jnutbio.2026.110310",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "PPR1246051",
+      "title": "Cooperative Architecture of Mitochondrial Proteome Homeostasis",
+      "journal": null,
+      "date": "2026-02-09",
+      "authors": "Forny P, Forny M, Smith AJ, Sung AY, Liu K, Pagliarini DJ.",
+      "doi": "10.64898/2026.02.06.26345691",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41655698",
+      "title": "Molecular mechanisms of mitochondrial AAA+ proteases.",
+      "journal": "J Biol Chem",
+      "date": "2026-02-06",
+      "authors": "Currie SQW, Goncalves MM, Schimmer AD, Vahidi S.",
+      "doi": "10.1016/j.jbc.2026.111264",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41651833",
+      "title": "Microbiota-derived IPA protects against colitis by regulating intestinal HMGCS2-mediated ketogenesis to facilitate mucosal healing.",
+      "journal": "Nat Commun",
+      "date": "2026-02-06",
+      "authors": "Zhang Y, Tu S, Shao X, Meng J, Zhang Z, Wei W, Jing X, Qin Z, Wu J, Xu W, Dong B, Gao J, Qu A, Chen S, Zhang L, Gong P, Shan B, Shi H, Zhu SJ.",
+      "doi": "10.1038/s41467-026-69341-z",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41632777",
+      "title": "Expression patterns of bone morphogenetic protein 7 (BMP7) and its prognostic roles in neuroblastoma: An integrated bioinformatics analysis.",
+      "journal": "PLoS One",
+      "date": "2026-02-03",
+      "authors": "Wang H, Wang X, Xu L.",
+      "doi": "10.1371/journal.pone.0340718",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "PPR1226777",
+      "title": "Hepatic Ketogenesis Attenuates Cardiac Hypertrophy via Metabolic Reprogramming",
+      "journal": null,
+      "date": "2026-02-02",
+      "authors": "Yamada T, Morikawa K, Fujiyama A, Nagakura T, Xu Y, Kataoka M, Umemoto T, Bundo M, Iwamoto K, Ahmed Z, Linna-Kuosmanen S, Hanatani S, Usuku H, Matsuzawa Y, Izumiya Y, Yamamoto E, Tsujita K, Arima Y.",
+      "doi": "10.64898/2026.01.30.702687",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41626766",
+      "title": "SIRT5 Inhibits HMGCS2 Succinylation and Promotes Its PIAS4-Dependent Ubiquitination to Attenuate Diabetic Cardiomyopathy.",
+      "journal": "FASEB J",
+      "date": "2026-02-01",
+      "authors": "Huang C, Xiong W, Xu Y.",
+      "doi": "10.1096/fj.202502832r",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41277603",
+      "title": "Revealing action mechanisms of Xiaoyaosan decoction for the treatment of nonalcoholic fatty liver in mice employing tandem mass tag quantitative proteomics.",
+      "journal": "J Pharm Pharmacol",
+      "date": "2026-02-01",
+      "authors": "Jiang HX, Li YG, Sun C, Zhou L, Wang J, Wang WF, Liang J.",
+      "doi": "10.1093/jpp/rgaf109",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41938614",
+      "title": "Acute hypoxia induces liver mitochondrial and endoplasmic reticulum stress in adult grass carp (<i>Ctenopharyngodon idella</i>): Palliative effects of vitamin A.",
+      "journal": "Anim Nutr",
+      "date": "2026-01-31",
+      "authors": "Cheng H, Zhou X, Feng L, Wu P, Liu Y, Ma Y, Tang J, Wu F, Zhang L, Mi H, Jiang W.",
+      "doi": "10.1016/j.aninu.2025.09.016",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41693776",
+      "title": "Correction: Xinfeng Capsule inhibits oxidative stress via regulating the PPARγ /Hmgcs2 signaling pathway in lung tissue of adjuvant arthritis rats.",
+      "journal": "Front Pharmacol",
+      "date": "2026-01-30",
+      "authors": "Zhang PH, Chen ES, Liu J, Xiao CH.",
+      "doi": "10.3389/fphar.2026.1746942",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41605998",
+      "title": "Metabolic and molecular evaluation of Moringa oleifera-supplemented ketogenic meal replacement in healthy C57BL/6 mice.",
+      "journal": "Sci Rep",
+      "date": "2026-01-28",
+      "authors": "Hassaan AI, Ebeed NM, Fatouh A, Elhariry H.",
+      "doi": "10.1038/s41598-025-34443-z",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "PPR1227849",
+      "title": "Hepatic ketogenesis supports liver lipid homeostasis during acute exercise but is not required for exercise training to mitigate liver steatosis in mice",
+      "journal": null,
+      "date": "2026-01-26",
+      "authors": "Vang CM, Ortega AF, Pfeiffer RE, Hartmann JL, Hampton GS, Wang H, Queathem ED, Crawford PA, Han X, Hughey CC.",
+      "doi": "10.64898/2026.01.24.701392",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41580118",
+      "title": "HMGCS2 desuccinylation modulates acetoacetate to drive tubule-macrophage inflammatory crosstalk in diabetic kidney disease.",
+      "journal": "Metabolism",
+      "date": "2026-01-22",
+      "authors": "Lin Z, Lv D, Zha H, Liu H, Peng R, Yang J, Li W, Liao X, Sun Y, Zhang Z.",
+      "doi": "10.1016/j.metabol.2026.156510",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41568562",
+      "title": "Lonp1 expression and correlation with mitophagy and immune infiltration markers in colon adenocarcinoma.",
+      "journal": "Histol Histopathol",
+      "date": "2026-01-22",
+      "authors": "Zanini G, Selleri V, Sinigaglia G, Micheloni G, Martusciello I, Caramaschi S, Nasi M, Bonetti LR, Pinti M.",
+      "doi": "10.14670/hh-25-037",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41568909",
+      "title": "Renal Ketogenesis Protects Against Ischemic Kidney Injury.",
+      "journal": "J Am Soc Nephrol",
+      "date": "2026-01-21",
+      "authors": "Feola K, Venable AH, Rasouli M, Haley EG, Jadhav C, Monroy R, McCoy T, Huen SC.",
+      "doi": "10.1681/asn.0000001014",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41556186",
+      "title": "Inhibition of LONP1 in prostate cancer: bibliometrics-guided target screening and AI-driven antibody design.",
+      "journal": "Int J Surg",
+      "date": "2026-01-19",
+      "authors": "Pan J, Zhang Y, Yang A, Jiang L, Shen Y, Sun Y, Zhu J, Chen Z, Fan M, Shi J.",
+      "doi": "10.1097/js9.0000000000004705",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41554300",
+      "title": "Treadmill exercise attenuates CUMS-induced depressive behaviors by modulating the UPRmt via the Nrf2/Keap1 pathway.",
+      "journal": "Brain Res Bull",
+      "date": "2026-01-17",
+      "authors": "Wang Y, Peng M, Zhou T, Si J, Shangguan Y, Wang J, Lei S, Li L.",
+      "doi": "10.1016/j.brainresbull.2026.111738",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "PPR1225896",
+      "title": "Nicotinamide phosphoribosyltransferase activates the mitochondrial unfolded protein response to promote pulmonary arterial endothelial cell proliferation",
+      "journal": null,
+      "date": "2026-01-16",
+      "authors": "Lockett AD, Adogamhe P, Snow A, Gomes MT, Machado RF.",
+      "doi": "10.64898/2026.01.15.699710",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "PPR1142867",
+      "title": "An information-theoretic metric learning approach for cross-species transcriptome integration: Identifying sex differentiation transcriptomic structure between protogynous fishes and mouse",
+      "journal": null,
+      "date": "2026-01-13",
+      "authors": "Hamano T.",
+      "doi": "10.21203/rs.3.rs-8564120/v1",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "PPR1142590",
+      "title": "Single-cell and experimental analyses identify mitochondrial dysfunction–related genes Hmgcs2, Nudt5, and Cpt1c in painful diabetic peripheral neuropathy",
+      "journal": null,
+      "date": "2026-01-13",
+      "authors": "Cao J, Zhang Z, Chen Y, Yu X, Xiang X, Lu W.",
+      "doi": "10.21203/rs.3.rs-8200654/v1",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41520033",
+      "title": "Hepatic HMGCS2-derived β-hydroxybutyrate attenuates hippocampal insulin resistance and neuroinflammation to promote MASLD-induced cognitive function.",
+      "journal": "Commun Biol",
+      "date": "2026-01-10",
+      "authors": "Nie L, Sun J, Xu W, Yang X, Wang G, Wang Y, Jiang T, Cao Y, Chen H, Xia Q, Zhou X.",
+      "doi": "10.1038/s42003-026-09513-1",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "PPR1141027",
+      "title": "Highly expressed ACSF2 may determine the butyrate metabolic preference of the rumen epithelium",
+      "journal": null,
+      "date": "2026-01-08",
+      "authors": "Huang Z, Song M, Qin J, Tian J, Zhang K, Zhang Y, Xiang X, Zhu W, Mao S, Liu J.",
+      "doi": "10.21203/rs.3.rs-8528676/v1",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41573681",
+      "title": "Molecular subtyping and functional characterization of gastric cancer using arginine metabolism-related genes.",
+      "journal": "Front Cell Dev Biol",
+      "date": "2026-01-07",
+      "authors": "Shao Y, Yu X, Yan J, Dong H.",
+      "doi": "10.3389/fcell.2025.1732490",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41496215",
+      "title": "Revisiting molecular hydrogen signaling in mitochondria: Is the Rieske protein the entry point or a downstream sentinel?",
+      "journal": "Redox Biol",
+      "date": "2026-01-05",
+      "authors": "Ostojic SM.",
+      "doi": "10.1016/j.redox.2026.104003",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41566736",
+      "title": "[Effects of moxibustion on delaying ovarian aging in mice by activating mitochondrial unfolded protein response and enhancing granulosa cell mitochondrial function].",
+      "journal": "Zhen Ci Yan Jiu",
+      "date": "2026-01-01",
+      "authors": "Fan YL, Li HX, Shen MH, Lu G.",
+      "doi": "10.13702/j.1000-0607.20241300",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "PPR1229444",
+      "title": "Mitochondrial depolarization stabilizes the vitamin B12 chaperone MMADHC in the cytosol to increase MTR activity",
+      "journal": null,
+      "date": "2025-12-31",
+      "authors": "Rath SP, Li Z, Guha A, Dong F, Banerjee R, Mootha VK.",
+      "doi": "10.64898/2025.12.31.697091",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41469518",
+      "title": "Unraveling sex differences in age-related hippocampal decline: differential mitochondrial dysfunction, Lonp1-dependent mitochondrial proteostasis and mtROS production in aged C57BL/6 mice.",
+      "journal": "Cell Death Dis",
+      "date": "2025-12-30",
+      "authors": "Cicali KA, Jara C, Cortés-Díaz D, Lira M, Fuentes Í, Catenaccio A, Arnaíz J, Ricca M, Valenzuela S, Oliva CA, Rivera DS, Tapia-Rojas C.",
+      "doi": "10.1038/s41419-025-08360-y",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41456859",
+      "title": "MicroRNA isomiRs reveal novel pathways linked to disease activity and fibrosis in MASLD.",
+      "journal": "Clin Mol Hepatol",
+      "date": "2025-12-26",
+      "authors": "Brion C, Hoang SA, Wang G, Mirshahi F, Ang J, Long MR, Zhu Z, Sakhamuri B, Srour MA, Siddiqui MS, Asgharpour A, Hayes DJ, Foster NC, Salzman DW, Sanyal AJ.",
+      "doi": "10.3350/cmh.2025.0933",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41455337",
+      "title": "Hypoxia-induced LONP1 overexpression and mtDNA damage may serve as biomarkers for death from mechanical asphyxia.",
+      "journal": "Leg Med (Tokyo)",
+      "date": "2025-12-24",
+      "authors": "Wu T, Zhang H, Zhang D, Hu Y, Tian L, Li W, Zhang F, Xiao B, Ma J, Shi Y, Chen Y, Jiang H, Liao X, Ma K, Chen L.",
+      "doi": "10.1016/j.legalmed.2025.102769",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "40044488",
+      "title": "Dual regulation of Atf3 and Lonp1 as therapeutic targets in cerebral ischaemia-reperfusion injury.",
+      "journal": "Stroke Vasc Neurol",
+      "date": "2025-12-23",
+      "authors": "Fan W, Zhou M, Zhou L, Tong J, Tan J, Shi W, Yu B.",
+      "doi": "10.1136/svn-2024-003324",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41422865",
+      "title": "Defective mitochondrial unfolded protein response in cancer acts as a lifeline for tumor growth and survival.",
+      "journal": "Cell Stress Chaperones",
+      "date": "2025-12-19",
+      "authors": "Sharma U, Vishwas V, Kumar RR, Agarwal N, Shree A, Gorain JK, Sasi A, Sharawat SK, Singh A, Palanichamy JK, Bakhshi S.",
+      "doi": "10.1016/j.cstres.2025.100143",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41442992",
+      "title": "Ginsenoside Rd promotes cardiac regeneration through PPARG/HMGCS2-driven ketone body metabolic reprogramming in myocardial ischemia-reperfusion injury.",
+      "journal": "Phytomedicine",
+      "date": "2025-12-11",
+      "authors": "Zhang H, Lin A, Zhai C, Lai T, Gong X, Wang M, Wu H, Ye T, Wang L, Tawulie D.",
+      "doi": "10.1016/j.phymed.2025.157694",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41386618",
+      "title": "CPT1A exacerbates trastuzumab-induced cardiotoxicity via promotion of mitochondrial dysfunction.",
+      "journal": "Int J Biol Macromol",
+      "date": "2025-12-11",
+      "authors": "Liu Y, Chen B, Li H, Zhang W, Lian B, Huang Z, Qin Q, Tan Q, Wei CY.",
+      "doi": "10.1016/j.ijbiomac.2025.149581",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41380952",
+      "title": "Honokiol (HNK) accelerates corneal epithelial wound healing by promoting HMGCS2-mediated mitochondrial metabolic homeostasis.",
+      "journal": "Exp Eye Res",
+      "date": "2025-12-10",
+      "authors": "Wang X, Chen J, Chen X, Huang Y, Li Y, Qiu J, Chen H, Mu Q, Zhuang J, Luo Y, Chen T, Yu N, Chen P, Yang Y, Wei L, Zhuang J.",
+      "doi": "10.1016/j.exer.2025.110805",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41369866",
+      "title": "Ketogenesis is Dispensable for the Metabolic Adaptations to Caloric Restriction.",
+      "journal": "Aging Cell",
+      "date": "2025-12-10",
+      "authors": "Yeh CY, Borgelt AL, Vogt BJ, Clark AA, Wong TT, Grunow I, Sonsalla MM, Babygirija R, Liu Y, Trautman ME, Calubag MF, Knopf BA, Xiao F, Lamming DW.",
+      "doi": "10.1111/acel.70318",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41288475",
+      "title": "Radiation reprograms fibroblasts to drive prostate cancer therapy resistance.",
+      "journal": "Endocr Relat Cancer",
+      "date": "2025-12-10",
+      "authors": "Madhav A, Thiruvalluvan M, Duong F, Rohena-Rivera K, Mishra R, Billet S, Tripathi M, Angara B, Stotland A, Andres A, Liu Z, Gottlieb RA, Zumsteg ZS, Bhowmick NA.",
+      "doi": "10.1530/erc-25-0221",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41383544",
+      "title": "Mitochondrial HMG-CoA Synthase Deficiency Presenting as Pediatric Metabolic Stroke: A Case Report of a Novel Homozygous HMGCS2 (p.Ile56Asn) Variant.",
+      "journal": "Clin Case Rep",
+      "date": "2025-12-09",
+      "authors": "Alshami Y, Hroub O, Hroub M, Abouodeh S, Makhamre Z, Hammouri AG, Alzatari I, Atawneh O.",
+      "doi": "10.1002/ccr3.71622",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41371349",
+      "title": "Reply to: \"Hepatic LONP1 overexpression ameliorates hepatic steatosis and fibrosis in mice\": Hepatocyte-specific ablation of LONP1 disrupts liver glucose homeostasis in mice.",
+      "journal": "J Hepatol",
+      "date": "2025-12-08",
+      "authors": "Zhang Z, Fang T, Wu P, Sun B, Xu D.",
+      "doi": "10.1016/j.jhep.2025.11.028",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41351645",
+      "title": "Identification of Mitochondria-Related Genes Associated with Stroke Risk Through Multi-omics Summary Data-Based MR Analysis.",
+      "journal": "Mol Neurobiol",
+      "date": "2025-12-06",
+      "authors": "Tang X, Cheng G, Chen S, Yao L, Lu L, Shen C, Feng L, Zhang W, Xu N, Wang L.",
+      "doi": "10.1007/s12035-025-05420-4",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41563281",
+      "title": "Matrix Stiffness Directs Early Injury and Ketogenesis Programs to Prime Kidney Repair.",
+      "journal": "J Am Soc Nephrol",
+      "date": "2025-12-03",
+      "authors": "Gui Y, Wang Y, Li W, Liu JJ, Zheng K, Zheng K, Li J, Shaffer HW, Jones C, Mallari SM, Yu Y, Liu S, Liu Y, Zhou D.",
+      "doi": "10.1681/asn.0000000967",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41365288",
+      "title": "Ketogenic Nutrition in Combination With PPARα Activation Induced Metabolic Failure and Exacerbated Muscle Weakness in Septic Mice.",
+      "journal": "J Cachexia Sarcopenia Muscle",
+      "date": "2025-12-01",
+      "authors": "Lauwers C, Vankrunkelsven W, Derde S, Vander Perre S, Derese I, Pauwels L, Vanhorebeek I, Libbrecht L, Vermeersch P, Gunst J, Van den Berghe G, Casaer MP, Langouche L.",
+      "doi": "10.1002/jcsm.70156",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41330217",
+      "title": "The Rieske iron-sulfur protein is a primary target of molecular hydrogen.",
+      "journal": "Redox Biol",
+      "date": "2025-11-27",
+      "authors": "Negishi S, Ito M, Hasegawa T, Otake H, Ohkawara B, Masuda A, Mino H, LeBaron TW, Ohno K.",
+      "doi": "10.1016/j.redox.2025.103952",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41317762",
+      "title": "N6-methyladenosine (m<sup>6</sup>A) modification regulates LONP1 to inhibit coxsackievirus B3 replication by suppressing virus-induced ferroptosis.",
+      "journal": "Int J Biol Macromol",
+      "date": "2025-11-27",
+      "authors": "Wang Q, Wang Y, Liu T, Wang H, Yuan M, Zhang T, Ji Z, Shen H.",
+      "doi": "10.1016/j.ijbiomac.2025.149287",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41292047",
+      "title": "WDR4-mediate tRNA m7G modification to promote mitophagy and browning of white adipose tissue for ameliorating obesity in male mice.",
+      "journal": "Adipocyte",
+      "date": "2025-11-25",
+      "authors": "Lin B, Wang C, Yang Y, Liu Z, Mu P, Xu W, Li Y.",
+      "doi": "10.1080/21623945.2025.2588888",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41289019",
+      "title": "Loss of FBXO11 establishes a stem cell program in acute myeloid leukemia by dysregulating LONP1.",
+      "journal": "J Clin Invest",
+      "date": "2025-11-25",
+      "authors": "Kincross H, Mo YA, Wang X, Chang L, Duns G, Mey F, Jiang J, Zhu Z, Isak N, Kwan H, Lau TT, Docking TR, Garg P, Tran J, Colborne S, Cheng SG, Huang S, Gharaee N, Willie E, Parker JD, Bridgers J, Wood D, Klein Geltink RI, Morin GB, Karsan A.",
+      "doi": "10.1172/jci181943",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41288805",
+      "title": "Decoding the cholesterol-apoptosis axis in HCC: a machine learning-based multi-omics integration and single-cell transcriptomic analysis.",
+      "journal": "Discov Oncol",
+      "date": "2025-11-25",
+      "authors": "Li Y, Shi J, Zhao A, Huang J, Dai L.",
+      "doi": "10.1007/s12672-025-04010-z",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41275592",
+      "title": "Endothelial Lon protease 1 facilitates the redox balance to prevent glomerulosclerosis by acting on superoxide dismutase 2 ubiquitination.",
+      "journal": "Redox Biol",
+      "date": "2025-11-19",
+      "authors": "Zhang X, Li S, Li S, Liu B, Ding G, Wu M, Zhang Y, Huang S, Gong W, Jia Z, Zhang A.",
+      "doi": "10.1016/j.redox.2025.103929",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41258406",
+      "title": "Identifying a novel Mecp2-mediated epigenetic mechanism controlling Lonp1 in the hippocampus and its disruption by aging.",
+      "journal": "Sci Rep",
+      "date": "2025-11-19",
+      "authors": "Llanquinao-Sandoval J, Cicali KA, Jara C, Vigil-Vásquez C, Sjöberg-Herrera MK, Ricca M, Valenzuela S, Loyola A, Pinti M, Schüller A, Kerr B, Tapia-Rojas C.",
+      "doi": "10.1038/s41598-025-24766-2",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "41254141",
+      "title": "SQLE drives bladder cancer progression by boosting mitochondrial oxidative phosphorylation.",
+      "journal": "Oncogene",
+      "date": "2025-11-18",
+      "authors": "Dong Y, Jiang X, Yang X, Zhang J, Fu Q, Zhou Y, Yang X, Fu Y, Hou Y, Li M, Yan J, Xu J, Yi Y, Liu M, Huo X, Han J, Wang Y, Guo C, Zhang Q, Wu A, Li X, Zhang X, Chang S, Tomii A, Jia L, Xiao Y, Hu X, Meng H, Liu D, Li S.",
+      "doi": "10.1038/s41388-025-03626-3",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    },
+    {
+      "id": "PPR1121118",
+      "title": "Sex- and ketogenesis-dependent effects of intermittent fasting against diet-induced obesity and fatty liver disease",
+      "journal": null,
+      "date": "2025-11-18",
+      "authors": "Aslani T, Asif S, Oh Y, Lee H, Stocker C, Kwon S, Pan J, Dababneh S, Zhao X, Taylor L, Mullick AE, Tibbits GF, Kim RY, Fullerton MD, Mulvihill EE, Son JE, Kim K.",
+      "doi": "10.1101/2025.11.17.688915",
+      "discovered_date": "2026-06-07",
+      "needs_review": [
+        "direct or inspirational relevance to thermogenesis/PCOS",
+        "set relevance to direct or inspirational",
+        "set added_date when publishing to papers.json",
+        "verify title against PubMed/PMC and DOI before publishing",
+        "set url to DOI/publisher page and source_url to PubMed/PMC",
+        "article type and research field",
+        "2024 JIF, CAS partition, and CNS classification",
+        "bilingual summaries and inspiration note"
+      ]
+    }
+  ]
+}
