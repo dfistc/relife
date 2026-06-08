@@ -120,7 +120,7 @@ fetch(`data/papers.json?v=${Date.now()}`, { cache: "no-store" })
   .then(data => {
     state.papers = data.papers;
     document.querySelector("#last-updated").textContent = `上次检索：${data.last_checked}（Asia/Shanghai）`;
-    document.querySelector("#since-year").textContent = data.criteria.since.slice(0, 4);
+    document.querySelector("#search-range").textContent = `${data.criteria.since} 至 ${data.criteria.through || data.last_checked.slice(0, 10)}`;
     document.querySelector("#qualified-count").textContent = data.papers.filter(p => p.qualified).length;
     document.querySelector("#candidate-count").textContent = data.papers.filter(p => !p.qualified).length;
     const latestAddedDate = data.papers.map(p => p.added_date).filter(Boolean).sort().at(-1) || "--";

@@ -16,7 +16,7 @@ socketserver.TCPServer(("", 8000), http.server.SimpleHTTPRequestHandler).serve_f
 
 ## 更新流程
 
-`scripts/update_literature.py` 从 Europe PMC 检索 2018 年以来的新候选文献。脚本不会猜测影响因子，也不会自动发布未审阅内容；新候选进入 `data/review_queue.json`，审核主题相关性、期刊指标并生成中英文摘要性概述后，再合并进 `data/papers.json`。
+`scripts/update_literature.py` 每次从 Europe PMC 检索 `2018-01-01` 至运行当天的新候选文献，检索终点会随日期自动推进。脚本不会猜测影响因子，也不会自动发布未审阅内容；新候选进入 `data/review_queue.json`，审核后再合并进 `data/papers.json`。
 
 ## 公网部署
 

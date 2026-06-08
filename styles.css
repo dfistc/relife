@@ -52,7 +52,7 @@ main { max-width: 1240px; margin: auto; padding: 0 clamp(18px, 4vw, 56px); }
 .summary div { padding: 26px 30px; border-right: 1px solid var(--line); }
 .summary div:last-child { border: 0; }
 .summary span { font-size: 30px; font-weight: 700; letter-spacing: -.05em; }
-.summary #latest-update-date { font-size: 18px; letter-spacing: -.02em; }
+.summary #latest-update-date, .summary #search-range { font-size: 16px; letter-spacing: -.02em; }
 .summary p { margin: 5px 0 0; color: var(--muted); font-size: 12px; }
 .research-brief { margin: 86px 0 20px; }
 .brief-heading { display: flex; justify-content: space-between; align-items: end; gap: 30px; margin-bottom: 28px; }

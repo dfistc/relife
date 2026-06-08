@@ -17,17 +17,21 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 PAPERS_PATH = ROOT / "data" / "papers.json"
 QUEUE_PATH = ROOT / "data" / "review_queue.json"
-QUERY = (
-    'FIRST_PDATE:[2018-01-01 TO 2099-12-31] AND '
-    '((TITLE_ABS:BMP8B OR TITLE_ABS:"BMP-8B") OR '
-    '(TITLE_ABS:LONP1 OR TITLE_ABS:"Lon protease 1") OR '
-    '(TITLE_ABS:HMGCS2 OR TITLE_ABS:"mitochondrial HMG-CoA synthase"))'
-)
+START_DATE = "2018-01-01"
 
 
-def fetch_candidates() -> list[dict]:
+def build_query(end_date: str) -> str:
+    return (
+        f"FIRST_PDATE:[{START_DATE} TO {end_date}] AND "
+        '((TITLE_ABS:BMP8B OR TITLE_ABS:"BMP-8B") OR '
+        '(TITLE_ABS:LONP1 OR TITLE_ABS:"Lon protease 1") OR '
+        '(TITLE_ABS:HMGCS2 OR TITLE_ABS:"mitochondrial HMG-CoA synthase"))'
+    )
+
+
+def fetch_candidates(end_date: str) -> list[dict]:
     params = urllib.parse.urlencode(
-        {"query": QUERY, "format": "json", "pageSize": 1000, "sort": "FIRST_PDATE_D desc"}
+        {"query": build_query(end_date), "format": "json", "pageSize": 1000, "sort": "FIRST_PDATE_D desc"}
     )
     request = urllib.request.Request(
         f"https://www.ebi.ac.uk/europepmc/webservices/rest/search?{params}",
@@ -39,6 +43,8 @@ def fetch_candidates() -> list[dict]:
 
 
 def main() -> None:
+    checked_at = datetime.now().astimezone()
+    end_date = checked_at.date().isoformat()
     current = json.loads(PAPERS_PATH.read_text(encoding="utf-8"))
     known = {
         str(identifier)
@@ -46,7 +52,7 @@ def main() -> None:
         for identifier in [item["id"], *item.get("aliases", [])]
     }
     queue = []
-    for item in fetch_candidates():
+    for item in fetch_candidates(end_date):
         identifier = str(item.get("pmid") or item.get("pmcid") or item.get("id"))
         if identifier in known:
             continue
@@ -74,7 +80,11 @@ def main() -> None:
     if queue:
         QUEUE_PATH.write_text(
             json.dumps(
-                {"checked_at": datetime.now().astimezone().isoformat(timespec="seconds"), "candidates": queue},
+                {
+                    "checked_at": checked_at.isoformat(timespec="seconds"),
+                    "search_range": {"from": START_DATE, "to": end_date},
+                    "candidates": queue,
+                },
                 ensure_ascii=False,
                 indent=2,
             ),
@@ -84,7 +94,9 @@ def main() -> None:
     else:
         print("No new candidates; public data left unchanged.")
 
-    current["last_checked"] = datetime.now().astimezone().strftime("%Y-%m-%d %H:%M")
+    current["last_checked"] = checked_at.strftime("%Y-%m-%d %H:%M")
+    current["criteria"]["since"] = START_DATE
+    current["criteria"]["through"] = end_date
     PAPERS_PATH.write_text(
         json.dumps(current, ensure_ascii=False, indent=2),
         encoding="utf-8",

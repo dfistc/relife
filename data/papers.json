@@ -1,7 +1,8 @@
 {
-  "last_checked": "2026-06-08 20:21",
+  "last_checked": "2026-06-08 20:52",
   "criteria": {
     "since": "2018-01-01",
+    "through": "2026-06-08",
     "impact_factor_threshold": 10,
     "genes": [
       "BMP8B",
@@ -20,8 +21,14 @@
       "journal": "Nature Communications",
       "date": "2018-11-26",
       "authors": "Valentina Pellegrinelli et al.",
-      "genes": ["BMP8B"],
-      "topics": ["脂肪产热", "神经血管重塑", "交感响应"],
+      "genes": [
+        "BMP8B"
+      ],
+      "topics": [
+        "脂肪产热",
+        "神经血管重塑",
+        "交感响应"
+      ],
       "qualified": true,
       "impact_factor": "14.7",
       "if_status": "已核验 >10",
@@ -38,8 +45,14 @@
       "journal": "Nature Cell Biology",
       "date": "2023-06-01",
       "authors": "Ting Fu et al.",
-      "genes": ["LONP1"],
-      "topics": ["脂肪产热", "白脂转米色脂肪", "线粒体蛋白稳态"],
+      "genes": [
+        "LONP1"
+      ],
+      "topics": [
+        "脂肪产热",
+        "白脂转米色脂肪",
+        "线粒体蛋白稳态"
+      ],
       "qualified": true,
       "impact_factor": "17.3",
       "if_status": "已核验 >10",
@@ -56,8 +69,14 @@
       "journal": "MedComm",
       "date": "2023-10-01",
       "authors": "Ying Xie et al.",
-      "genes": ["LONP1"],
-      "topics": ["PCOS", "赖氨酸巴豆酰化", "线粒体功能"],
+      "genes": [
+        "LONP1"
+      ],
+      "topics": [
+        "PCOS",
+        "赖氨酸巴豆酰化",
+        "线粒体功能"
+      ],
       "qualified": false,
       "impact_factor": null,
       "if_status": "IF 待核验",
@@ -74,8 +93,14 @@
       "journal": "Frontiers in Pediatrics",
       "date": "2022-01-01",
       "authors": "Cristina Garcia-Beltran et al.",
-      "genes": ["BMP8B"],
-      "topics": ["棕色脂肪活性", "循环 BMP8B", "代谢内分泌"],
+      "genes": [
+        "BMP8B"
+      ],
+      "topics": [
+        "棕色脂肪活性",
+        "循环 BMP8B",
+        "代谢内分泌"
+      ],
       "qualified": false,
       "impact_factor": null,
       "if_status": "IF 待核验",
@@ -92,8 +117,14 @@
       "journal": "Endocrinology and Metabolism",
       "date": "2021-06-01",
       "authors": "Jae Hyun Lee et al.",
-      "genes": ["LONP1"],
-      "topics": ["内脏脂肪", "肥胖", "糖脂代谢"],
+      "genes": [
+        "LONP1"
+      ],
+      "topics": [
+        "内脏脂肪",
+        "肥胖",
+        "糖脂代谢"
+      ],
       "qualified": false,
       "impact_factor": null,
       "if_status": "IF 待核验",
@@ -110,8 +141,14 @@
       "journal": "EBioMedicine",
       "date": "2022-01-01",
       "authors": "Xiaohui Sheng et al.",
-      "genes": ["LONP1"],
-      "topics": ["卵母细胞", "生殖功能", "线粒体稳态"],
+      "genes": [
+        "LONP1"
+      ],
+      "topics": [
+        "卵母细胞",
+        "生殖功能",
+        "线粒体稳态"
+      ],
       "qualified": false,
       "impact_factor": null,
       "if_status": "IF 待核验",
@@ -128,8 +165,14 @@
       "journal": "PLOS ONE",
       "date": "2020-01-01",
       "authors": "Sahar Bagheri-Fam et al.",
-      "genes": ["HMGCS2"],
-      "topics": ["性腺发育", "酮体生成", "生殖代谢"],
+      "genes": [
+        "HMGCS2"
+      ],
+      "topics": [
+        "性腺发育",
+        "酮体生成",
+        "生殖代谢"
+      ],
       "qualified": false,
       "impact_factor": null,
       "if_status": "IF 待核验",
@@ -146,8 +189,14 @@
       "journal": "Obesity Reviews",
       "date": "2019-05-01",
       "authors": "Ana M. Blázquez-Medela et al.",
-      "genes": ["BMP8B"],
-      "topics": ["BMP 信号", "脂肪组织", "综述"],
+      "genes": [
+        "BMP8B"
+      ],
+      "topics": [
+        "BMP 信号",
+        "脂肪组织",
+        "综述"
+      ],
       "qualified": false,
       "impact_factor": null,
       "if_status": "IF 待核验",
