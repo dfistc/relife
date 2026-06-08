@@ -18,7 +18,7 @@ ROOT = Path(__file__).resolve().parents[1]
 PAPERS_PATH = ROOT / "data" / "papers.json"
 QUEUE_PATH = ROOT / "data" / "review_queue.json"
 QUERY = (
-    'FIRST_PDATE:[2024-01-01 TO 2099-12-31] AND '
+    'FIRST_PDATE:[2018-01-01 TO 2099-12-31] AND '
     '((TITLE_ABS:BMP8B OR TITLE_ABS:"BMP-8B") OR '
     '(TITLE_ABS:LONP1 OR TITLE_ABS:"Lon protease 1") OR '
     '(TITLE_ABS:HMGCS2 OR TITLE_ABS:"mitochondrial HMG-CoA synthase"))'
@@ -27,7 +27,7 @@ QUERY = (
 
 def fetch_candidates() -> list[dict]:
     params = urllib.parse.urlencode(
-        {"query": QUERY, "format": "json", "pageSize": 100, "sort": "FIRST_PDATE_D desc"}
+        {"query": QUERY, "format": "json", "pageSize": 1000, "sort": "FIRST_PDATE_D desc"}
     )
     request = urllib.request.Request(
         f"https://www.ebi.ac.uk/europepmc/webservices/rest/search?{params}",
@@ -66,7 +66,7 @@ def main() -> None:
                     "verify title against PubMed/PMC and DOI before publishing",
                     "set url to DOI/publisher page and source_url to PubMed/PMC",
                     "article type and research field",
-                    "2024 JIF, CAS partition, and CNS classification",
+                    "latest verifiable JIF, CAS partition, and CNS classification",
                     "bilingual summaries and inspiration note",
                 ],
             }
@@ -83,6 +83,12 @@ def main() -> None:
         print(f"Queued {len(queue)} new candidate(s) for review.")
     else:
         print("No new candidates; public data left unchanged.")
+
+    current["last_checked"] = datetime.now().astimezone().strftime("%Y-%m-%d %H:%M")
+    PAPERS_PATH.write_text(
+        json.dumps(current, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
 
 
 if __name__ == "__main__":

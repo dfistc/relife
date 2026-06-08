@@ -10,6 +10,14 @@ const journalMeta = {
   "Biomolecules": { if: "4.8", ifYear: "公开期刊指标", cas: "待中科院升级版数据库核验", type: "非 CNS" },
   "microPublication Biology": { if: "无 JIF", ifYear: "未检出", cas: "未收录 / 待核验", type: "非 CNS" },
   "medRxiv preprint": { if: "无 IF", ifYear: "预印本", cas: "不适用", type: "预印本 · 非 CNS" }
+  ,"Nature Communications": { if: "14.7", ifYear: "公开期刊指标", cas: "1区 / TOP（建议以最新版复核）", type: "Nature 子刊" }
+  ,"Nature Cell Biology": { if: "17.3", ifYear: "公开期刊指标", cas: "1区 / TOP（建议以最新版复核）", type: "Nature 子刊" }
+  ,"MedComm": { if: "待核验", ifYear: "", cas: "待中科院升级版数据库核验", type: "非 CNS" }
+  ,"Frontiers in Pediatrics": { if: "待核验", ifYear: "", cas: "待中科院升级版数据库核验", type: "非 CNS" }
+  ,"Endocrinology and Metabolism": { if: "待核验", ifYear: "", cas: "待中科院升级版数据库核验", type: "非 CNS" }
+  ,"EBioMedicine": { if: "待核验", ifYear: "", cas: "待中科院升级版数据库核验", type: "非 CNS · Lancet Discovery Science" }
+  ,"PLOS ONE": { if: "待核验", ifYear: "", cas: "待中科院升级版数据库核验", type: "非 CNS" }
+  ,"Obesity Reviews": { if: "待核验", ifYear: "", cas: "待中科院升级版数据库核验", type: "非 CNS · 高水平综述期刊" }
 };
 
 const paperMeta = {
@@ -22,6 +30,14 @@ const paperMeta = {
   "PMC12024584": ["综述", "LONP1 药理学 · 线粒体蛋白稳态", "汇总 LONP1 小分子调节剂，可用于筛选改善 PCOS 线粒体异常或脂肪细胞功能的候选工具化合物。"],
   "41620670": ["综述", "LONP1 · 线粒体稳态 · 疾病机制", "系统梳理 LONP1 的质量控制、代谢和疾病通路，可帮助选择产热或 PCOS 研究中的下游指标与干预节点。"]
   ,"10.1038/s42255-025-01378-8": ["原创研究 · 单细胞与表观组学", "HMGCS2 · 米色脂肪生成 · 产热 · 发育代谢", "直接证明 Hmgcs2 依赖的酮体信号促进米色脂肪形成，可重点借鉴 Hmgcs2 敲除、Cd81+ 前体细胞、组蛋白乙酰化与 β-羟丁酰化实验体系。"]
+  ,"30478315": ["原创研究", "BMP8B · 脂肪神经血管重塑 · 产热", "提供 BMP8B 作为脂肪细胞分泌因子调控交感神经与血管网络的直接机制，可用于设计脂肪组织微环境和产热耦联实验。"]
+  ,"37217599": ["原创研究", "LONP1 · 白脂转米色脂肪 · 线粒体蛋白降解", "直接连接 LONP1 蛋白水解与脂肪细胞身份转换，是开展 LONP1-产热机制研究的核心依据。"]
+  ,"37817894": ["原创研究", "PCOS · LONP1 巴豆酰化 · 线粒体功能", "提示应从翻译后修饰而非仅表达量研究 LONP1，可检测 PCOS 中 LONP1 K-crotonylation 及其功能后果。"]
+  ,"35402348": ["临床观察研究", "BMP8B · 棕色脂肪活性 · 早期生命代谢", "支持将循环 BMP8B 与棕脂活性及代谢指标联合分析，可启发 PCOS 人群的 BMP8B-产热表型研究。"]
+  ,"34154043": ["临床组织研究", "LONP1 · 内脏脂肪 · 肥胖代谢", "提示内脏脂肪 LONP1 与糖脂代谢相关，可在 PCOS 不同肥胖亚型中进行脂肪组织分层验证。"]
+  ,"34974310": ["原创研究", "LONP1 · 卵母细胞 · 生殖功能", "揭示 LONP1-AIFM1 轴维持卵母细胞生存，可作为评估 PCOS 卵母细胞质量和线粒体应激的机制切入点。"]
+  ,"31910233": ["原创研究", "HMGCS2 · 性腺发育 · 酮体代谢", "HMGCS2 在性腺发育中的特异表达提示其可能参与卵巢代谢和生殖功能，适合作为 PCOS 探索性组织定位靶点。"]
+  ,"30609449": ["综述", "BMP 信号 · 脂肪组织 · 代谢", "系统梳理 BMP 家族在脂肪形成与代谢中的作用，可用于界定 BMP8B 特异效应及选择比较通路。"]
 };
 
 const escapeHtml = (text = "") => String(text ?? "").replace(/[&<>"']/g, c => ({
