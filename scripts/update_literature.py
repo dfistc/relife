@@ -16,6 +16,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 PAPERS_PATH = ROOT / "data" / "papers.json"
+PAPERS_JS_PATH = ROOT / "data" / "papers.js"
 QUEUE_PATH = ROOT / "data" / "review_queue.json"
 START_DATE = "2018-01-01"
 
@@ -99,6 +100,10 @@ def main() -> None:
     current["criteria"]["through"] = end_date
     PAPERS_PATH.write_text(
         json.dumps(current, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    PAPERS_JS_PATH.write_text(
+        "window.PAPERS_DATA = " + json.dumps(current, ensure_ascii=False, indent=2) + ";\n",
         encoding="utf-8",
     )
 

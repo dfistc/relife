@@ -1,0 +1,419 @@
+window.PAPERS_DATA = {
+  "last_checked": "2026-06-08 21:17",
+  "criteria": {
+    "since": "2018-01-01",
+    "through": "2026-06-08",
+    "impact_factor_threshold": 10,
+    "genes": [
+      "BMP8B",
+      "LONP1",
+      "HMGCS2"
+    ],
+    "topics": [
+      "adipose thermogenesis",
+      "PCOS"
+    ]
+  },
+  "papers": [
+    {
+      "id": "30478315",
+      "title": "Adipocyte-secreted BMP8b mediates adrenergic-induced remodeling of the neuro-vascular network in adipose tissue",
+      "journal": "Nature Communications",
+      "date": "2018-11-26",
+      "authors": "Valentina Pellegrinelli et al.",
+      "genes": [
+        "BMP8B"
+      ],
+      "topics": [
+        "脂肪产热",
+        "神经血管重塑",
+        "交感响应"
+      ],
+      "qualified": true,
+      "impact_factor": "14.7",
+      "if_status": "已核验 >10",
+      "url": "https://doi.org/10.1038/s41467-018-07453-x",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30478315/",
+      "summary_zh": "研究表明脂肪细胞分泌的 BMP8b 可介导肾上腺素能刺激引起的脂肪组织神经和血管网络重塑，从而增强产热组织对交感刺激的响应。",
+      "summary_en": "Adipocyte-secreted BMP8b mediates adrenergic remodeling of adipose neurovascular networks, linking a secreted adipokine to sympathetic responsiveness and thermogenic tissue adaptation.",
+      "added_date": "2026-06-08",
+      "relevance": "direct"
+    },
+    {
+      "id": "37217599",
+      "title": "Proteolytic rewiring of mitochondria by LONP1 directs cell identity switching of adipocytes",
+      "journal": "Nature Cell Biology",
+      "date": "2023-06-01",
+      "authors": "Ting Fu et al.",
+      "genes": [
+        "LONP1"
+      ],
+      "topics": [
+        "脂肪产热",
+        "白脂转米色脂肪",
+        "线粒体蛋白稳态"
+      ],
+      "qualified": true,
+      "impact_factor": "17.3",
+      "if_status": "已核验 >10",
+      "url": "https://doi.org/10.1038/s41556-023-01155-3",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37217599/",
+      "summary_zh": "研究揭示 LONP1 通过重塑线粒体蛋白质组和代谢酶周转，驱动脂肪细胞身份转换并控制白脂向米色脂肪转化。",
+      "summary_en": "LONP1-dependent proteolytic rewiring of mitochondria directs adipocyte identity switching and controls white-to-beige adipocyte conversion.",
+      "added_date": "2026-06-08",
+      "relevance": "direct"
+    },
+    {
+      "id": "37817894",
+      "title": "Down-regulation of Lon protease 1 lysine crotonylation aggravates mitochondrial dysfunction in polycystic ovary syndrome",
+      "journal": "MedComm",
+      "date": "2023-10-01",
+      "authors": "Ying Xie et al.",
+      "genes": [
+        "LONP1"
+      ],
+      "topics": [
+        "PCOS",
+        "赖氨酸巴豆酰化",
+        "线粒体功能"
+      ],
+      "qualified": false,
+      "impact_factor": null,
+      "if_status": "IF 待核验",
+      "url": "https://doi.org/10.1002/mco2.396",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/37817894/",
+      "summary_zh": "研究发现 PCOS 中 LONP1 的赖氨酸巴豆酰化下调会加重线粒体功能障碍，提出 LONP1 翻译后修饰参与 PCOS 发病的新机制。",
+      "summary_en": "Reduced lysine crotonylation of LONP1 aggravates mitochondrial dysfunction in PCOS, identifying a post-translational regulatory layer beyond LONP1 expression.",
+      "added_date": "2026-06-08",
+      "relevance": "direct"
+    },
+    {
+      "id": "35402348",
+      "title": "Bone Morphogenetic Protein-8B Levels at Birth and in the First Year of Life: Relation to Metabolic-Endocrine Variables and Brown Adipose Tissue Activity",
+      "journal": "Frontiers in Pediatrics",
+      "date": "2022-01-01",
+      "authors": "Cristina Garcia-Beltran et al.",
+      "genes": [
+        "BMP8B"
+      ],
+      "topics": [
+        "棕色脂肪活性",
+        "循环 BMP8B",
+        "代谢内分泌"
+      ],
+      "qualified": false,
+      "impact_factor": null,
+      "if_status": "IF 待核验",
+      "url": "https://doi.org/10.3389/fped.2022.869581",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/35402348/",
+      "summary_zh": "研究分析出生及生命第一年 BMP8B 水平与代谢内分泌变量和棕色脂肪活性的关系，为循环 BMP8B 作为产热相关生物标志物提供人群证据。",
+      "summary_en": "This study relates circulating BMP8B during early life to metabolic-endocrine variables and brown adipose tissue activity, supporting its biomarker potential.",
+      "added_date": "2026-06-08",
+      "relevance": "direct"
+    },
+    {
+      "id": "34154043",
+      "title": "Expression of LONP1 Is High in Visceral Adipose Tissue in Obesity, and Is Associated with Glucose and Lipid Metabolism",
+      "journal": "Endocrinology and Metabolism",
+      "date": "2021-06-01",
+      "authors": "Jae Hyun Lee et al.",
+      "genes": [
+        "LONP1"
+      ],
+      "topics": [
+        "内脏脂肪",
+        "肥胖",
+        "糖脂代谢"
+      ],
+      "qualified": false,
+      "impact_factor": null,
+      "if_status": "IF 待核验",
+      "url": "https://doi.org/10.3803/EnM.2021.1023",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34154043/",
+      "summary_zh": "研究显示肥胖人群内脏脂肪组织 LONP1 表达较高，并与糖脂代谢指标相关，为在代谢型 PCOS 中研究脂肪 LONP1 提供依据。",
+      "summary_en": "LONP1 is highly expressed in visceral adipose tissue in obesity and associates with glucose and lipid metabolism, supporting adipose LONP1 stratification in metabolic PCOS.",
+      "added_date": "2026-06-08",
+      "relevance": "inspirational"
+    },
+    {
+      "id": "34974310",
+      "title": "The mitochondrial protease LONP1 maintains oocyte development and survival by suppressing nuclear translocation of AIFM1 in mammals",
+      "journal": "EBioMedicine",
+      "date": "2022-01-01",
+      "authors": "Xiaohui Sheng et al.",
+      "genes": [
+        "LONP1"
+      ],
+      "topics": [
+        "卵母细胞",
+        "生殖功能",
+        "线粒体稳态"
+      ],
+      "qualified": false,
+      "impact_factor": null,
+      "if_status": "IF 待核验",
+      "url": "https://doi.org/10.1016/j.ebiom.2021.103790",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34974310/",
+      "summary_zh": "研究证明 LONP1 通过抑制 AIFM1 核转位维持哺乳动物卵母细胞发育和生存，为 PCOS 卵母细胞质量研究提供直接机制参考。",
+      "summary_en": "LONP1 maintains mammalian oocyte development and survival by suppressing nuclear translocation of AIFM1, providing a mechanistic reference for oocyte quality in PCOS.",
+      "added_date": "2026-06-08",
+      "relevance": "inspirational"
+    },
+    {
+      "id": "31910233",
+      "title": "The gene encoding the ketogenic enzyme HMGCS2 displays a unique expression during gonad development in mice",
+      "journal": "PLOS ONE",
+      "date": "2020-01-01",
+      "authors": "Sahar Bagheri-Fam et al.",
+      "genes": [
+        "HMGCS2"
+      ],
+      "topics": [
+        "性腺发育",
+        "酮体生成",
+        "生殖代谢"
+      ],
+      "qualified": false,
+      "impact_factor": null,
+      "if_status": "IF 待核验",
+      "url": "https://doi.org/10.1371/journal.pone.0227411",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31910233/",
+      "summary_zh": "研究发现酮体生成酶 HMGCS2 在小鼠性腺发育过程中呈现独特表达模式，提示 HMGCS2 可能参与生殖组织代谢与分化。",
+      "summary_en": "HMGCS2 shows a distinctive expression pattern during mouse gonad development, suggesting a potential role for ketogenesis in reproductive tissue metabolism and differentiation.",
+      "added_date": "2026-06-08",
+      "relevance": "inspirational"
+    },
+    {
+      "id": "30609449",
+      "title": "Beyond the bone: Bone morphogenetic protein signaling in adipose tissue",
+      "journal": "Obesity Reviews",
+      "date": "2019-05-01",
+      "authors": "Ana M. Blázquez-Medela et al.",
+      "genes": [
+        "BMP8B"
+      ],
+      "topics": [
+        "BMP 信号",
+        "脂肪组织",
+        "综述"
+      ],
+      "qualified": false,
+      "impact_factor": null,
+      "if_status": "IF 待核验",
+      "url": "https://doi.org/10.1111/obr.12822",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30609449/",
+      "summary_zh": "该综述总结 BMP 信号在脂肪组织形成、功能和代谢调控中的作用，为理解 BMP8B 的特异性产热机制提供家族层面的背景。",
+      "summary_en": "This review synthesizes BMP signaling in adipose tissue development, function, and metabolism, providing a family-level framework for interpreting BMP8B-specific thermogenic effects.",
+      "added_date": "2026-06-08",
+      "relevance": "inspirational"
+    },
+    {
+      "id": "10.1038/s42255-025-01378-8",
+      "title": "Early-life ketone body signalling promotes beige fat biogenesis through changes in histone acetylome and β-hydroxybutyrylome",
+      "journal": "Nature Metabolism",
+      "date": "2025-10-09",
+      "authors": "Chung-Lin Jiang et al.",
+      "genes": [
+        "HMGCS2"
+      ],
+      "topics": [
+        "脂肪产热",
+        "米色脂肪生成",
+        "酮体信号"
+      ],
+      "qualified": true,
+      "impact_factor": "20.8",
+      "if_status": "已核验 >10",
+      "url": "https://doi.org/10.1038/s42255-025-01378-8",
+      "summary_zh": "研究发现断奶前 Hmgcs2 依赖的酮体生成可促进米色脂肪形成并改善成年期代谢健康。Hmgcs2 缺失会阻碍米色脂肪生成，而增强酮体信号可提高能量消耗、线粒体生物发生与呼吸，并通过组蛋白乙酰化和 β-羟丁酰化激活产热基因。",
+      "summary_en": "Preweaning Hmgcs2-dependent ketogenesis promotes beige fat biogenesis and adult metabolic health. Hmgcs2 loss impairs beige adipogenesis, whereas enhanced ketone signaling increases energy expenditure and mitochondrial biogenesis through histone acetylation and β-hydroxybutyrylation.",
+      "added_date": "2026-06-07",
+      "relevance": "direct"
+    },
+    {
+      "id": "41620670",
+      "title": "Role of LONP1 in human diseases: molecular mechanisms and therapeutic potential",
+      "journal": "Cellular & Molecular Biology Letters",
+      "date": "2026-02-01",
+      "authors": "Review article",
+      "genes": [
+        "LONP1"
+      ],
+      "topics": [
+        "线粒体稳态",
+        "疾病机制",
+        "启发性综述"
+      ],
+      "qualified": false,
+      "impact_factor": "8.3",
+      "if_status": "未达到 >10 门槛",
+      "url": "https://doi.org/10.1186/s11658-026-00858-3",
+      "summary_zh": "该综述系统总结 LONP1 在蛋白质量控制、线粒体代谢、应激反应和多类人类疾病中的作用，为跨疾病寻找 LONP1 下游机制和干预策略提供框架。",
+      "summary_en": "This review summarizes LONP1 roles in mitochondrial protein quality control, metabolism, stress responses, and human diseases, offering a framework for identifying downstream mechanisms and interventions.",
+      "added_date": "2026-06-07",
+      "relevance": "inspirational",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41620670/"
+    },
+    {
+      "id": "38870290",
+      "title": "Artemisinins ameliorate polycystic ovarian syndrome by mediating LONP1-CYP11A1 interaction",
+      "journal": "Science",
+      "date": "2024-06-14",
+      "authors": "Yang Liu et al.",
+      "genes": [
+        "LONP1"
+      ],
+      "topics": [
+        "PCOS"
+      ],
+      "qualified": true,
+      "impact_factor": ">10（已核验）",
+      "if_status": "已核验 >10",
+      "url": "https://doi.org/10.1126/science.adk5382",
+      "summary_zh": "研究发现青蒿素类药物可直接靶向 LONP1，增强 LONP1 与 CYP11A1 的相互作用并促进 CYP11A1 降解，从而抑制卵巢雄激素过度合成；该作用在啮齿动物模型和 PCOS 患者中均显示改善潜力。",
+      "summary_en": "Artemisinins directly target LONP1, enhance its interaction with CYP11A1, and promote CYP11A1 degradation to suppress ovarian androgen overproduction. Benefits were demonstrated in rodent models and patients with PCOS.",
+      "added_date": "2026-06-07",
+      "relevance": "direct",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38870290/"
+    },
+    {
+      "id": "39648053",
+      "title": "Unveiling the biological functions and therapeutic potentials of LONP1 in the ovary",
+      "journal": "Trends in Molecular Medicine",
+      "date": "2024-12-07",
+      "authors": "Yi Chen et al.",
+      "genes": [
+        "LONP1"
+      ],
+      "topics": [
+        "PCOS"
+      ],
+      "qualified": true,
+      "impact_factor": ">10（已核验）",
+      "if_status": "已核验 >10",
+      "url": "https://doi.org/10.1016/j.molmed.2024.11.010",
+      "summary_zh": "该论坛文章总结 LONP1 在卵巢类固醇激素代谢、卵母细胞发育、生存与质量控制中的作用，并讨论其失调与 PCOS 和卵巢衰老的联系及治疗潜力。",
+      "summary_en": "This forum article reviews LONP1 functions in ovarian steroidogenesis, oocyte development, survival, and quality control, and discusses its dysregulation in PCOS and ovarian aging as a potential therapeutic target.",
+      "added_date": "2026-06-07",
+      "relevance": "direct",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39648053/"
+    },
+    {
+      "id": "PPR863667",
+      "title": "Serum BMP8B levels in women with polycystic ovary syndrome: a case-control study",
+      "journal": "medRxiv preprint",
+      "date": "2024-06-07",
+      "authors": "Hui-Ling Xue et al.",
+      "genes": [
+        "BMP8B"
+      ],
+      "topics": [
+        "PCOS",
+        "脂肪产热相关代谢调控"
+      ],
+      "qualified": false,
+      "impact_factor": null,
+      "if_status": "预印本，无期刊 IF",
+      "url": "https://doi.org/10.1101/2024.06.06.24308575",
+      "summary_zh": "病例对照研究纳入 80 名 PCOS 女性与 40 名匹配对照，发现 PCOS 组血清 BMP8B 水平较低，并与胰岛素抵抗、脂质代谢和 BMI 等指标存在关联。该结果尚未经同行评议。",
+      "summary_en": "This case-control preprint compared 80 women with PCOS and 40 matched controls, reporting lower serum BMP8B in PCOS and associations with insulin resistance, lipid metabolism, and BMI. The findings have not yet been peer reviewed.",
+      "added_date": "2026-06-07",
+      "relevance": "direct",
+      "source_url": "https://www.medrxiv.org/content/10.1101/2024.06.06.24308575v1"
+    },
+    {
+      "id": "41696866",
+      "title": "Exercise attenuates polycystic ovary syndrome development via improved mitochondrial proteostasis",
+      "journal": "American Journal of Physiology-Endocrinology and Metabolism",
+      "date": "2026-03-01",
+      "authors": "Chaeyoung Shin et al.",
+      "genes": [
+        "LONP1"
+      ],
+      "topics": [
+        "PCOS"
+      ],
+      "qualified": false,
+      "impact_factor": null,
+      "if_status": "未达到 >10 门槛",
+      "url": "https://doi.org/10.1152/ajpendo.00457.2025",
+      "summary_zh": "研究在 DHEA 诱导的 PCOS 小鼠模型中发现，有氧运动可恢复卵巢 LONP1 表达与线粒体蛋白稳态，促进类固醇生成酶正常周转，并减轻高雄激素、炎症和纤维化。",
+      "summary_en": "In a DHEA-induced mouse model of PCOS, aerobic exercise restored ovarian LONP1 expression and mitochondrial proteostasis, normalized steroidogenic protein turnover, and reduced inflammation, fibrosis, and androgen excess.",
+      "added_date": "2026-06-07",
+      "relevance": "direct",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41696866/"
+    },
+    {
+      "id": "PMC12628819",
+      "aliases": [
+        "41257877"
+      ],
+      "title": "Single-cell transcriptomics uncovering a critical AKT-LONP1-STAR axis in ovarian hyperandrogenism of PCOS",
+      "journal": "Journal of Ovarian Research",
+      "date": "2025-11-19",
+      "authors": "Chunren Zhang et al.",
+      "genes": [
+        "LONP1"
+      ],
+      "topics": [
+        "PCOS"
+      ],
+      "qualified": false,
+      "impact_factor": null,
+      "if_status": "未达到 >10 门槛",
+      "url": "https://doi.org/10.1186/s13048-025-01837-6",
+      "summary_zh": "单细胞转录组分析提示 PCOS 卵巢中 PI3K-AKT 信号降低会下调 LONP1，并导致 STAR 蛋白积累，从而推动卵巢膜细胞高雄激素生成，提出 AKT-LONP1-STAR 致病轴。",
+      "summary_en": "Single-cell analysis identifies an AKT-LONP1-STAR axis in PCOS: reduced PI3K-AKT signaling lowers LONP1, promotes STAR protein accumulation, and may drive excessive androgen production in ovarian theca cells.",
+      "added_date": "2026-06-07",
+      "relevance": "direct",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12628819/"
+    },
+    {
+      "id": "40181907",
+      "title": "Bone morphogenetic protein 8B (BMP8B) increases the glucose sensitivity of ventromedial hypothalamus glucose-inhibited neurons in female mice",
+      "journal": "microPublication Biology",
+      "date": "2025-03-18",
+      "authors": "Pamela R Hirschberg et al.",
+      "genes": [
+        "BMP8B"
+      ],
+      "topics": [
+        "脂肪产热相关代谢调控"
+      ],
+      "qualified": false,
+      "impact_factor": null,
+      "if_status": "未达到 >10 门槛",
+      "url": "https://doi.org/10.17912/micropub.biology.001496",
+      "summary_zh": "研究显示 BMP8B 可增强雌性小鼠腹内侧下丘脑葡萄糖抑制神经元的葡萄糖敏感性，并呈现性别差异，为 BMP8B 经中枢 AMPK 通路调节能量稳态提供补充证据。",
+      "summary_en": "BMP8B increased glucose sensitivity in ventromedial hypothalamic glucose-inhibited neurons in female mice, adding evidence for sex-specific central regulation of energy homeostasis through BMP8B and AMPK-related signaling.",
+      "added_date": "2026-06-07",
+      "relevance": "direct",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40181907/"
+    },
+    {
+      "id": "PMC12024584",
+      "aliases": [
+        "40305312"
+      ],
+      "title": "Modulation of Lonp1 Activity by Small Compounds",
+      "journal": "Biomolecules",
+      "date": "2025-04-25",
+      "authors": "Review article",
+      "genes": [
+        "LONP1"
+      ],
+      "topics": [
+        "PCOS"
+      ],
+      "qualified": false,
+      "impact_factor": null,
+      "if_status": "未达到 >10 门槛",
+      "url": "https://doi.org/10.3390/biom15040553",
+      "summary_zh": "该综述总结了调控 LONP1 活性的小分子，并讨论 LONP1 激活剂恢复线粒体功能的潜力，其中包括其在 PCOS 等疾病中的潜在保护作用。",
+      "summary_en": "This review surveys small-molecule modulators of LONP1 and discusses the potential of LONP1 activators to restore mitochondrial function, including possible protective applications in PCOS.",
+      "added_date": "2026-06-07",
+      "relevance": "inspirational",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12024584/"
+    }
+  ]
+};

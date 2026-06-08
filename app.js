@@ -115,9 +115,7 @@ function render() {
   document.querySelector("#empty-qualified").hidden = !(state.filter === "qualified" && list.length === 0);
 }
 
-fetch(`data/papers.json?v=${Date.now()}`, { cache: "no-store" })
-  .then(r => r.json())
-  .then(data => {
+function loadPapers(data) {
     state.papers = data.papers;
     document.querySelector("#last-updated").textContent = `上次检索：${data.last_checked}（Asia/Shanghai）`;
     document.querySelector("#search-range").textContent = `${data.criteria.since} 至 ${data.criteria.through || data.last_checked.slice(0, 10)}`;
@@ -127,9 +125,21 @@ fetch(`data/papers.json?v=${Date.now()}`, { cache: "no-store" })
     document.querySelector("#latest-update-date").textContent = latestAddedDate;
     document.querySelector("#latest-update-count").textContent = data.papers.filter(p => p.added_date === latestAddedDate).length;
     render();
+}
+
+fetch(`data/papers.json?v=${Date.now()}`, { cache: "no-store" })
+  .then(r => {
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    return r.json();
   })
+  .then(loadPapers)
   .catch(() => {
-    document.querySelector("#last-updated").textContent = "数据读取失败，请通过本地服务器打开网站";
+    if (window.PAPERS_DATA) {
+      loadPapers(window.PAPERS_DATA);
+      document.querySelector("#last-updated").textContent += " · 已使用内置数据";
+    } else {
+      document.querySelector("#last-updated").textContent = "数据读取失败，请通过本地服务器打开网站";
+    }
   });
 
 document.querySelectorAll(".filter").forEach(button => button.addEventListener("click", () => {
